@@ -11,9 +11,9 @@ Ce projet implémente une API REST complète pour la gestion des comptes bancair
 
 ## 📸 Captures d’écran
 
-![Capture 1](./captures/1.PNG)
-![Capture 2](./captures/2.PNG)
-![Capture 3](./captures/3.PNG)
+![Capture 1](./captures/1.png)
+![Capture 2](./captures/2.png)
+![Capture 3](./captures/3.png)
 
 ## 🧪 Exemple d’appel API
 
